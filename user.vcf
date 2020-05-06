@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Rosenthal;Alan;;;
+FN: Alan  Rosenthal 
+ORG:Eazi Trade;
+TITLE:Director
+EMAIL;type=INTERNET;type=WORK;type=pref:info@eazitrade.com
+TEL;type=WORK;type=VOICE:+971 04 395 7930
+item1.ADR;type=WORK;type=pref:;;Office E1 Ajman Free Zone\nAjman\nUnited Arab Emirates
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.eazitrade.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
